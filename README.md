@@ -21,3 +21,6 @@ The real challenge, and fun, came with JavaScript. I created around 10 quiz ques
 I focused on making sure the code was clean and easy to understand. I also used Git and GitHub to keep track of my work, and I am now hosting the project on my GitHub profile as a portfolio piece. It is a simple project, but it significantly improved my skills in writing reusable code, handling user interactions, and designing a smooth user experience. I also gained more confidence using developer tools for testing and debugging.
 
 Overall, I am pleased with how the project turned out. It looks polished, works smoothly, and provided me with hands-on experience in applying everything I’ve learned so far. This has been a valuable learning opportunity, and I look forward to creating more real-world projects like this during the rest of my internship.
+
+#OUTPUT
+<img width="1919" height="1135" alt="Image" src="https://github.com/user-attachments/assets/421ccfeb-bc87-4be3-a60c-356449484785" />
